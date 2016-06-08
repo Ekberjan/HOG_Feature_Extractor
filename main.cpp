@@ -38,7 +38,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	
 	std::cout << "feature size: " << feature.size() << std::endl;
 
-	// Use the obtained HOG features for further steps.
+	// Use the obtained HOG features for further steps, 
+	// such as send it to classifier.
 
 
 	return 0;
